@@ -12,7 +12,7 @@
 <table class="nav-bar">
 <tr><td><img alt="coffee icon" src="<?php echo base_url();?>img/javajamlogo.jpg"></td></tr>
 <tr><td><nav role="navigation">	
-	<a href="IndexController"><strong>Home</strong></a>
+			    <a href="IndexController"><strong>Home</strong></a>
                             <a href="MenuController"><strong>Menu</strong></a> 
                             <a href="MusicController"><strong>Music</strong></a>
                             <a href="JobController"><strong>Jobs</strong></a> 
